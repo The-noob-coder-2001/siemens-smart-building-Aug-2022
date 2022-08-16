@@ -1,0 +1,13 @@
+
+
+
+A functional program where we can create accounts, apply for debit cards,
+check account balance, calculate interest on savings amount, 
+change pin number for debit cards, etc
+
+
+
+                account                              Interface InterestEligibleAccount
+                                                            calculateInterest
+
+Savings           Current          Salary

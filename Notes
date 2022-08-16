@@ -1,9 +1,11 @@
 
 
 
-A functional program where we can create accounts, apply for debit cards,
-check account balance, calculate interest on savings amount, 
-change pin number for debit cards, etc
+A functional program where we can create accounts, 
+    apply for debit cards,                  
+    check account balance,                  // done
+    calculate interest on savings amount,   // done
+    change pin number for debit cards       // done
 
 
 

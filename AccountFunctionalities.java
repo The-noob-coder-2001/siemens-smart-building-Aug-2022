@@ -1,3 +1,3 @@
 public interface AccountFunctionalities {
-float checkBalance() throws Exception;
+    float checkBalance() throws Exception;
 }

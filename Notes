@@ -5,7 +5,7 @@ A functional program where we can create accounts,
     apply for debit cards,                  
     check account balance,                  // done
     calculate interest on savings amount,   // done
-    change pin number for debit cards       // done
+    change pin number for debit cards       
 
 
 

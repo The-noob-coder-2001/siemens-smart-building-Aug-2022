@@ -1,11 +1,9 @@
 public class DebitCard {
-    
+
     private int debitCardPin;
-    private String debitCardExpiry; //come back to this!!!
+    private String debitCardExpiry; // come back to this!!!
     private int debitCardCvvNumber;
     private String debitCardNumber;
-
-
 
     public DebitCard(int debitCardPin, String debitCardExpiry, int debitCardCvvNumber, String debitCardNumber) {
         this.debitCardPin = debitCardPin;
@@ -14,13 +12,12 @@ public class DebitCard {
         this.debitCardNumber = debitCardNumber;
     }
 
-    public DebitCard( String debitCardExpiry, int debitCardCvvNumber, String debitCardNumber) {
+    public DebitCard(String debitCardExpiry, int debitCardCvvNumber, String debitCardNumber) {
 
         this.debitCardExpiry = debitCardExpiry;
         this.debitCardCvvNumber = debitCardCvvNumber;
         this.debitCardNumber = debitCardNumber;
     }
-
 
     public int getDebitCardPin() {
         return this.debitCardPin;
@@ -37,10 +34,9 @@ public class DebitCard {
     public int getDebitCardCvvNumber() {
         return this.debitCardCvvNumber;
     }
+
     public String getDebitCardNumber() {
         return this.debitCardNumber;
     }
-
-
 
 }
